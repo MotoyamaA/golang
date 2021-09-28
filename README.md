@@ -1,0 +1,2 @@
+# golang
+golamg first repository.
